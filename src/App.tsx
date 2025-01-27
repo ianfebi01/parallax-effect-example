@@ -1,4 +1,3 @@
-import './App.css'
 import SectionProvider from './components/SectionProvider'
 import ParallaxSection from './components/ParallaxSection'
 
